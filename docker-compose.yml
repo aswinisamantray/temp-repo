@@ -1,0 +1,18 @@
+version: '3.8'
+services:
+  nss_php:
+    # image: php:apache
+    image: php:8.1-apache
+    container_name: nss-php
+    env_file:
+      - ./.env
+    environment:
+      - BASE_URL=http://localhost:8080
+      # - NOCODB_URL=http://192.168.56.1:5000
+      # - NOCODB_URL=https://nss-nocodb.onrender.com
+      - NOCODB_URL=https://noco-db-production-3473.up.railway.app
+    volumes:
+      - ./:/var/www/html/
+    ports:
+      - 8080:80
+    restart: unless-stopped
