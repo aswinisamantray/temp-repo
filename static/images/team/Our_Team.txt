@@ -1,0 +1,48 @@
+<-------------------------------------------------------->
+Name: Dr. Suchetan Pal
+Post: Faculty Incharge
+Email Id: suchetanp@iitbhilai.ac.in
+<-------------------------------------------------------->
+Name: Mr. Prashant Kumar
+Post: General Secretary
+Email Id: prashantk@iitbhilai.ac.in
+<-------------------------------------------------------->
+Name: Mr. Ashutosh Sahu
+Post: General Secretary
+Email Id: ashutoshsahu@iitbhilai.ac.in
+<-------------------------------------------------------->
+Name: Ms. Shalini Kumari
+Post: Executive
+Email Id: shalinik@iitbhilai.ac.in
+<-------------------------------------------------------->
+Name: Mr. Tarun Singh
+Post: Executive
+Email Id: taruns@iitbhilai.ac.in
+<-------------------------------------------------------->
+Name: Mr. Abhinav Anand
+Post: Executive
+Email Id: abhinava@iitbhilai.ac.in
+<-------------------------------------------------------->
+Name: Mr. Rishabh Ranjan
+Post: Executive
+Email Id: rishabhr@iitbhilai.ac.in
+<-------------------------------------------------------->
+Name: Mr. Anand Panchbhai
+Post: Design Coordinator
+Email Id: rishabhr@iitbhilai.ac.in
+<-------------------------------------------------------->
+Name: Mr. Harshvardhan Patel
+Post: Writer
+Email Id: rishabhr@iitbhilai.ac.in
+<-------------------------------------------------------->
+Name: Mr. Siddharth A Singh
+Post: Co-writer
+Email Id: siddhartha@iitbhilai.ac.in
+<-------------------------------------------------------->
+And Our web developers:
+1). Mr. Hemant
+2). Mr. Ahaan
+3). Mr. Bharath
+<-------------------------------------------------------->
+
+
